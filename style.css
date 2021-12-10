@@ -16,6 +16,10 @@ body {
     padding-left: 11em;
     color: black;
     background-color: gray }
+nav{
+     margin: 5px;
+    padding: 5px;
+}
   ul.navbar {
     list-style-type: none;
     padding: 0;
