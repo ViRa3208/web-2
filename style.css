@@ -13,11 +13,13 @@ header {
     width: 100%;
     height: 100px;
 }
-table{
-background: purple;
+table 
+{
+  background: #D190C3;
 }
-tr.color{
-background:blue;
+tr.colorr 
+{
+  background:#B0C4DE;
 }
 body {
     padding-left: 11em;
