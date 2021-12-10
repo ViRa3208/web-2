@@ -12,6 +12,12 @@ header {
     width: 100%;
     height: 100px;
 }
+table{
+background: purple;
+}
+tr.color{
+background:blue;
+}
 body {
     padding-left: 11em;
     color: black;
